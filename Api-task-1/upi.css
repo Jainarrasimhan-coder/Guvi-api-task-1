@@ -1,0 +1,33 @@
+.heading {
+    text-align: center;
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    color: brown;
+}
+
+.img {
+    text-align: center;
+    width: 200px;
+    margin-left: 550px;
+    padding-top: 10px;
+}
+
+.btn {
+    text-align: center;
+    width: 200px;
+    margin-left: 550px;
+    padding-top: 10px;
+}
+
+.catsimgdiv {
+    width: 60%;
+    margin-left: 200px;
+    padding-top: 10px;
+}
+
+
+/* 
+.container {
+    background-color: azure;
+} */
